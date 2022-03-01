@@ -1,1 +1,2 @@
 This is my first repo file in Github
+I am adding new content to master branch from local repo
