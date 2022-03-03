@@ -1,2 +1,6 @@
 This is my first repo file in Github
+<<<<<<< HEAD
 I am adding new content to master branch from local repo
+=======
+I am adding this content from Github Editor
+>>>>>>> a25dcf5ebd58749375e52cd3cee6e33162dba32a
